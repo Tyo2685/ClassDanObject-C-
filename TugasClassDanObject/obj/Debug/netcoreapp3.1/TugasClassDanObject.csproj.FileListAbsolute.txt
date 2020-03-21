@@ -1,0 +1,13 @@
+D:\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.exe
+D:\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.deps.json
+D:\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.runtimeconfig.json
+D:\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.runtimeconfig.dev.json
+D:\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.dll
+D:\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.pdb
+D:\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.csprojAssemblyReference.cache
+D:\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.csproj.CoreCompileInputs.cache
+D:\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.AssemblyInfoInputs.cache
+D:\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.AssemblyInfo.cs
+D:\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.dll
+D:\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.pdb
+D:\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.genruntimeconfig.cache
